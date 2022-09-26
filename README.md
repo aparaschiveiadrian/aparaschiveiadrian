@@ -4,9 +4,9 @@ void **about**(){<br />
 void **main**(){ <br />
   printf("**I am familiar with IDEs such as Visual Studio Code, Clion, CodeBlocks and UNITY(as game engine and also IDE)<br />
   Languages that i frequently use for my projects are C++ and C#.**";}<br />
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adidinamite" alt="adidinamite" /></a> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 
