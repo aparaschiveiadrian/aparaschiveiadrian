@@ -1,22 +1,23 @@
-## Adrian, Romania, 18 years old
-void **about**(){<br />
-  printf("**My favourite avocation is programming which I've picked up since 2019.**";} <br />
-void **main**(){ <br />
-  printf("**I am familiar with IDEs such as Visual Studio Code, Clion, CodeBlocks and UNITY(as game engine and also IDE)<br />
-  Languages that i frequently use for my projects are C++ and C#.**";}<br />
+# Hi there! 👋
 
+Welcome to my GitHub profile!
+## 👨‍💻 About Me
+I'm a passionate Computer Science student in my second year at the **University of Bucharest**. 
+### 🔭 What I Do
+I enjoy building software that makes life easier, more fun, or just more interesting! 
+Here is what i have worked with and have some knowledge over:
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+  - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+  - ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white),![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+  - ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
+  - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+  - ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
 
+I am always trying to become a better version of myself and also get to know people that I have what to learn from.
+### 📫 Get in Touch
+Whether you're interested in collaborating on a project, discussing tech, or just saying hi, feel free to reach out to me!
 
+- **Email:** adi.dinamite04@gmail.com
 
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-
-<a href="https://instagram.com/adidinamitel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adidinamitel" height="30" width="40" /></a>
-
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.jetbrains.com/clion/" target="_blank" rel="noreferrer"> <img src="https://cdn.cdnlogo.com/logos/c/21/clion.svg" alt="unity" width="40" height="40"/> </a></p>
-
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
