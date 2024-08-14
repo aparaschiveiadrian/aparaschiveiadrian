@@ -18,4 +18,8 @@ I am always trying to become a better version of myself and also get to know peo
 Whether you're interested in collaborating on a project, discussing tech, or just saying hi, feel free to reach out to me!
 
 - **Email:** adi.dinamite04@gmail.com
-
+## Some interesting repositories of mine which are public:
+ - [Few useful algos](https://github.com/Adidinamite/few-useful-algos.git)
+ - [Conway's Game of Life in ASSEMBLY :(](https://github.com/Adidinamite/FMI-work/tree/main/year1/semester1/Assembly/Conway's%20Game%20of%20Life)
+ - [OOP C++ Book a Tennis Court](https://github.com/Adidinamite/OOP-book-tennis)
+ - [Flashcards]()
