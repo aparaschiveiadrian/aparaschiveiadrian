@@ -19,5 +19,3 @@ Whether you're interested in collaborating on a project, discussing tech, or jus
 
 - **Email:** adi.dinamite04@gmail.com
 
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
