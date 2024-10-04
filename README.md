@@ -14,10 +14,7 @@ Here is what i have worked with and have some knowledge over:
   - ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
 
 I am always trying to become a better version of myself and also get to know people that I have what to learn from.
-### 📫 Get in Touch
-Whether you're interested in collaborating on a project, discussing tech, or just saying hi, feel free to reach out to me!
 
-- **Email:** adi.dinamite04@gmail.com
 ## Some interesting repositories of mine which are public:
  - [Few useful algos](https://github.com/Adidinamite/few-useful-algos.git)
  - [Conway's Game of Life in ASSEMBLY :(](https://github.com/Adidinamite/FMI-work/tree/main/year1/semester1/Assembly/Conway's%20Game%20of%20Life)
