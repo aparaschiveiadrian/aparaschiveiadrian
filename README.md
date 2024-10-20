@@ -16,6 +16,7 @@ Here is what i have worked with and have some knowledge over:
 I am always trying to become a better version of myself and also get to know people that I have what to learn from.
 
 ## Some interesting repositories of mine which are public:
+ - [Recipe Generator Web App](https://github.com/aparaschiveiadrian/FridgeQuestApp)
  - [Few useful algos](https://github.com/Adidinamite/few-useful-algos.git)
  - [Conway's Game of Life in ASSEMBLY :(](https://github.com/Adidinamite/FMI-work/tree/main/year1/semester1/Assembly/Conway's%20Game%20of%20Life)
  - [OOP C++ Book a Tennis Court](https://github.com/Adidinamite/OOP-book-tennis)
