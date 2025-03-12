@@ -27,6 +27,7 @@
 ## 🌟 Featured Projects
 
 ### **🔹 [Full-Stack Social Media App](https://github.com/aparaschiveiadrian/SocialMediaPlatform/tree/main/Social%20Media%20Platform)**  
+[YOUTUBE Demo](https://www.youtube.com/watch?v=gaVvNqVDKcE)
 *React, .NET Core, JavaScript, HTML/CSS, PostgreSQL*  
 📅 **Nov 2024 – Jan 2025**  
 ✅ Developed a **full-stack social media platform** with JWT authentication, user profiles, and a **follow/unfollow** system.  
