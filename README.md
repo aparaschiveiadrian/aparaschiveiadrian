@@ -1,67 +1,77 @@
-# Hi there, I'm Adrian Aparaschivei 👋
+# 👋 Hi there, I'm Adrian Aparaschivei
 
-## 💻 Technical Skills
-- **Tech Stack:** JavaScript, Python, C/C++, C#, PL/SQL, HTML/CSS
-- **Frameworks & Libraries:** React, .NET, Node.js, Git
-- **Database Management:** PostgreSQL, Oracle Database 21c
+🚀 **Aspiring Full-Stack Developer | Passionate about Problem-Solving & Scalable Applications**
 
 ---
 
-## 🚀 Projects
+## 💡 About Me
+🎓 **Computer Science Student** at the **University of Bucharest** (2023-2026).  
+💼 Passionate about **software engineering**, **web development**, and **AI-driven applications**.  
+🌟 Actively building **full-stack applications** and solving algorithm problems.  
 
-### **[Full-Stack Social Media App](https://github.com/aparaschiveiadrian/SocialMediaPlatform/tree/main/Social%20Media%20Platform)** | *React, .NET Core, JavaScript, HTML/CSS, PostgreSQL*  
-📅 **November 2024 – January 2025**  
-- Developed a **fully functional social media platform** where users can create accounts, log in using **JWT authentication**, and manage profiles with profile pictures and descriptions.
-- Implemented a **follow/unfollow system**, **private profiles**, and **interactive features** such as posts, comments, and a followers/following list.
-- Designed a **secure, moderated group conversation system** where users join discussions via a unique code and require moderator approval.
-- Utilized **.NET Core with Entity Framework Core** for backend logic, **PostgreSQL** for database management, and **REST APIs** for frontend-backend communication.
-- Applied **OOP principles** and **dependency injection** for repository management, ensuring maintainability and scalability.
-
----
-
-### **[FridgeQuest App](https://github.com/aparaschiveiadrian/FridgeQuestApp)** | *React, JavaScript, HTML/CSS, Node.js*  
-📅 **October 2024**  
-- Built a web app that helps users **manage ingredients and generate recipes** based on available items.
-- Developed a **responsive interface** using React with **conditional rendering, reusable components, and React Router**.
-- Created a **Node.js & Express backend** to interact with the **ChatGPT API**, enabling users to receive personalized **recipe suggestions**.
-- Implemented **asynchronous functions** and the **Fetch API** for smooth client-server communication.
+📫 **Get in Touch:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/adrianaparaschivei)  
+📧 **Email:** adrian.aparaschivei04@gmail.com
 
 ---
 
-### **Flashcards App** | *React, JavaScript, Node.js*  
-📅 **August 2024**  
-- Created a **flashcard app** where users can **input text/PDFs to generate interactive flashcards**.
-- Designed features like marking flashcards as **"know" or "don’t know"**, with dynamic reordering until mastery is achieved.
-- Developed a **Node.js backend with Express** that integrates with the **OpenAI API** to process inputs and generate flashcards.
-- Built a **fully responsive front-end with React**, improving the user experience.
+## 🚀 Technical Skills
+
+🖥️ **Languages:** Java, JavaScript, Python, C/C++, C#, PL/SQL  
+⚙️ **Frameworks & Libraries:** React, .NET Core, Node.js, Spring Boot  
+🛢️ **Database Management:** PostgreSQL, Oracle Database 21c  
+🛠️ **Developer Tools:** Git  
 
 ---
 
-## 🎓 Education
+## 🌟 Featured Projects
 
-### **Faculty of Mathematics and Computer Science, University of Bucharest**  
+### **🔹 [Full-Stack Social Media App](https://github.com/aparaschiveiadrian/SocialMediaPlatform/tree/main/Social%20Media%20Platform)**  
+*React, .NET Core, JavaScript, HTML/CSS, PostgreSQL*  
+📅 **Nov 2024 – Jan 2025**  
+✅ Developed a **full-stack social media platform** with JWT authentication, user profiles, and a **follow/unfollow** system.  
+✅ Built **interactive posts, comments, and private group conversations** requiring moderator approval.  
+✅ Designed a secure and scalable backend using **.NET Core & PostgreSQL** with **RESTful APIs**.  
+
+---
+
+### **🔹 [FridgeQuest App](https://github.com/aparaschiveiadrian/FridgeQuestApp)**  
+*React, JavaScript, Node.js, HTML/CSS*  
+📅 **Oct 2024**  
+✅ Created a **recipe suggestion app** that generates recipes based on user-input ingredients.  
+✅ Built a **Node.js & Express backend** that interacts with the **ChatGPT API** for personalized recipe ideas.  
+✅ Ensured a **responsive and smooth UI** using **React** and **React Router**.
+
+---
+
+### **🔹 Flashcards App**  
+*React, JavaScript, Node.js*  
+📅 **Aug 2024**  
+✅ Designed a **flashcard learning tool** where users can input text/PDFs to generate interactive flashcards.  
+✅ Integrated **OpenAI API** for auto-generating flashcards from text data.  
+✅ Developed a **React-based frontend** with smooth navigation and user-friendly interactions.  
+
+---
+
+## 📚 Education
+
+🎓 **Faculty of Mathematics and Computer Science, University of Bucharest**  
 📅 **2023 – 2026** | **Bucharest, Romania**  
-- **Relevant Coursework:**
-  - Operating Systems (Linux)
-  - Data Structures and Algorithms
-  - Web Application Development
-  - Database Management Systems
-  - Object-Oriented Programming
-  - Computer Architecture (Assembly x86)
+📖 **Relevant Coursework:** Operating Systems (Linux), Data Structures, Web Development, AI, OOP, DBMS  
 
+🎓 **Tudor Vianu National College of Computer Science**  
+📅 **2019 – 2023** | **Bucharest, Romania**  
+📖 **Relevant Activity:** Critical Thinking and 500+ algorithm problems solved in C++  
 
 ---
 
 ## 🌍 Languages
-- **English**: C1 level (Advanced)
-- **Romanian**: Native speaker
+🇬🇧 **English:** C1 (Advanced)  
+🇷🇴 **Romanian:** Native Speaker  
 
 ---
 
-## 📫 Get in Touch
-🔗 **[LinkedIn](https://linkedin.com/in/adrianaparaschivei)**  
-📧 **Email:** adrian.aparaschivei04@gmail.com  
+## 🔥 Let's Connect!
+📩 Feel free to explore my repositories and reach out for **collaborations, internships, or software engineering opportunities**! 🚀  
 
----
-
-⭐ **Feel free to explore my repositories and connect with me!** 🚀
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aparaschiveiadrian&show_icons=true&theme=radical)  
