@@ -7,13 +7,27 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/adrianaparaschivei">LinkedIn</a> •
-  <a href="mailto:adrian.aparaschivei04@gmail.com">Email</a> •
-  <a href="https://github.com/aparaschiveiadrian">GitHub</a>
+  <a href="https://linkedin.com/in/adrianaparaschivei" title="Connect on LinkedIn">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
+  </a>
+  &nbsp;
+  <a href="mailto:adrian.aparaschivei04@gmail.com" title="Send me an email">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white">
+  </a>
+  &nbsp;
+  <a href="https://github.com/aparaschiveiadrian" title="Check out my GitHub">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
+  </a>
 </p>
 
 
----
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aparaschiveiadrian&theme=aura_dark&hide_border=true&include_all_commits=false&count_private=false" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=aparaschiveiadrian&theme=aura_dark&hide_border=true&hide_current_streak=true&hide_longest_streak=true" />
+</p>
+
 
 ## Skills
 
