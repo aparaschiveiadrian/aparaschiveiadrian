@@ -61,10 +61,7 @@
   <img alt="Flyway" src="https://img.shields.io/badge/Flyway-CC0200?logo=flyway&logoColor=white">
 </p>
 
-- **Event-driven microservices** architecture with Redis Pub/Sub for real-time price updates and RabbitMQ for asynchronous notifications
-- **4 independent services** (Auth, Alert, Rate, Notification) with horizontal scaling capabilities
-- **JWT-based authentication**, PostgreSQL persistence, Docker containerization
-- **Email notifications** via RabbitMQ consumer pattern; loose coupling enables independent service evolution
+A microservices-based real-time cryptocurrency price alert system built with Spring Boot and event-driven architecture. The system monitors cryptocurrency prices and notifies users when their configured price thresholds are met.
 
 ---
 
@@ -81,9 +78,7 @@
   <img alt="SSE" src="https://img.shields.io/badge/SSE-444?logo=signal&logoColor=white">
 </p>
 
-- Real-time ticket availability via **Server-Sent Events (SSE)** with transactional decrements preventing oversells
-- Secure authentication with **Keycloak (OIDC/JWT)**; role-based access control (Organizer / Staff / Attendee)
-- Production-grade testing: **PostgreSQL + Flyway** migrations, **Testcontainers** for integration tests, **Docker** for local/CI environments
+A full-stack event ticketing platform built with Spring Boot 3.5.5 and React, featuring JWT authentication via Keycloak with role-based access control, QR code ticket validation, optimistic locking for concurrent ticket purchases, and real-time ticket quantity updates through Server-Sent Events (SSE).
 
 ---
 
