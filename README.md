@@ -7,6 +7,12 @@
 </p>
 
 <p align="center">
+  <a href="https://adrianaparaschivei.netlify.app/" title="Visit my personal website">
+    <img alt="Website" src="https://img.shields.io/badge/🌐_Personal_Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/adrianaparaschivei" title="Connect on LinkedIn">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
   </a>
@@ -114,5 +120,5 @@ A full-stack event ticketing platform built with Spring Boot 3.5.5 and React, fe
 ## 📬 Contact
 
 <p align="center">
-  Open to collaboration and internships — <a href="https://linkedin.com/in/adrianaparaschivei">LinkedIn</a> · <a href="mailto:adrian.aparaschivei04@gmail.com">Email</a>
+  Open to collaboration and internships — <a href="https://adrianaparaschivei.netlify.app/">Website</a> · <a href="https://linkedin.com/in/adrianaparaschivei">LinkedIn</a> · <a href="mailto:adrian.aparaschivei04@gmail.com">Email</a>
 </p>
